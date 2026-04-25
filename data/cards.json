@@ -1,0 +1,184 @@
+[
+    {
+        "name": "Archer",
+        "trait1": "Clan",
+        "trait2": "Marksman",
+        "value": 2.0,
+        "imagePath": "image/cards/Archer_card.png"
+    },
+    {
+        "name": "Archer Queen",
+        "trait1": "Clan",
+        "trait2": "Superstar",
+        "value": 5.0,
+        "imagePath": "image/cards/ArcherQueen_card.png"
+    },
+    {
+        "name": "Baby Dragon",
+        "trait1": "Fire",
+        "trait2": "Dragon",
+        "value": 4.0,
+        "imagePath": "image/cards/BabyDragon_card.png"
+    },
+    {
+        "name": "Bandit",
+        "trait1": "Ace",
+        "trait2": "Assassin",
+        "value": 4.0,
+        "imagePath": "image/cards/bandit_card.png"
+    },
+    {
+        "name": "Barbarian",
+        "trait1": "Clan",
+        "trait2": "Warrior",
+        "value": 2.0,
+        "imagePath": "image/cards/barbarian_card.png"
+    },
+    {
+        "name": "Dart Goblin",
+        "trait1": "Goblin",
+        "trait2": "Marksman",
+        "value": 1.7,
+        "imagePath": "image/cards/DartGoblin_card.png"
+    },
+    {
+        "name": "Executioner",
+        "trait1": "Ace",
+        "trait2": "Hinder",
+        "value": 3.2,
+        "imagePath": "image/cards/Executioner_card.png"
+    },
+    {
+        "name": "Giant",
+        "trait1": "Titan",
+        "trait2": "Superstar",
+        "value": 3.2,
+        "imagePath": "image/cards/Giant_card.png"
+    },
+    {
+        "name": "Giant Skeleton",
+        "trait1": "Undead",
+        "trait2": "Tank",
+        "value": 3.0,
+        "imagePath": "image/cards/GiantSkeleton_card.png"
+    },
+    {
+        "name": "Goblin",
+        "trait1": "Goblin",
+        "trait2": "Assassin",
+        "value": 1.5,
+        "imagePath": "image/cards/Goblin_card.png"
+    },
+    {
+        "name": "Goblin Demolisher",
+        "trait1": "Goblin",
+        "trait2": "Warrior",
+        "value": 2.6,
+        "imagePath": "image/cards/GoblinDemolisher_card.png"
+    },
+    {
+        "name": "Goblin Machine",
+        "trait1": "Goblin",
+        "trait2": "Superstar",
+        "value": 3.7,
+        "imagePath": "image/cards/GoblinMachine_card.png"
+    },
+    {
+        "name": "Golden Knight",
+        "trait1": "Noble",
+        "trait2": "Assassin",
+        "value": 5.0,
+        "imagePath": "image/cards/GoldenKnight_card.png"
+    },
+    {
+        "name": "Knight",
+        "trait1": "Noble",
+        "trait2": "Tank",
+        "value": 2.3,
+        "imagePath": "image/cards/Knight_card.png"
+    },
+    {
+        "name": "Monk",
+        "trait1": "Ace",
+        "trait2": "Tank",
+        "value": 5.3,
+        "imagePath": "image/cards/Monk_card.png"
+    },
+    {
+        "name": "Musketeer",
+        "trait1": "Noble",
+        "trait2": "Marksman",
+        "value": 3.6,
+        "imagePath": "image/cards/Musketeer_card.png"
+    },
+    {
+        "name": "PEKKA",
+        "trait1": "Ace",
+        "trait2": "Superstar",
+        "value": 3.7,
+        "imagePath": "image/cards/Pekka_card.png"
+    },
+    {
+        "name": "Prince",
+        "trait1": "Noble",
+        "trait2": "Warrior",
+        "value": 3.7,
+        "imagePath": "image/cards/Prince_card.png"
+    },
+    {
+        "name": "Princess",
+        "trait1": "Noble",
+        "trait2": "Hinder",
+        "value": 4.0,
+        "imagePath": "image/cards/Princess_card.png"
+    },
+    {
+        "name": "Royal Ghost",
+        "trait1": "Undead",
+        "trait2": "Assassin",
+        "value": 3.2,
+        "imagePath": "image/cards/RoyalGhost_card.png"
+    },
+    {
+        "name": "Royal Giant",
+        "trait1": "Titan",
+        "trait2": "Marksman",
+        "value": 3.0,
+        "imagePath": "image/cards/RoyalGiant_card.png"
+    },
+    {
+        "name": "Skeleton Dragon",
+        "trait1": "Undead",
+        "trait2": "Dragon",
+        "value": 2.0,
+        "imagePath": "image/cards/SkeletonDragon_card.png"
+    },
+    {
+        "name": "Skeleton King",
+        "trait1": "Undead",
+        "trait2": "Warrior",
+        "value": 4.3,
+        "imagePath": "image/cards/SkeletonKing_card.png"
+    },
+    {
+        "name": "Valkyrie",
+        "trait1": "Clan",
+        "trait2": "Tank",
+        "value": 3.1,
+        "imagePath": "image/cards/Valkyrie_card.png"
+    },
+    {
+        "name": "Witch",
+        "trait1": "Undead",
+        "trait2": "Hinder",
+        "value": 3.8,
+        "imagePath": "image/cards/Witch_card.png"
+    },
+    {
+        "name": "Wizard",
+        "trait1": "Fire",
+        "trait2": "Hinder",
+        "value": 2.2,
+        "imagePath": "image/cards/Wizard_card.png"
+    }
+]
